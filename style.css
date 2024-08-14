@@ -1,0 +1,37 @@
+.top {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    background-color: aqua;
+    border: 1px;
+    margin: 20px;
+}
+
+
+.font.recipes {
+    padding-top: 10px;
+    padding-bottom: 500px;
+    margin: 20px;
+    font-size: 25px;
+    background-color:aquamarine;
+    border: 1px;
+    text-align: center;
+}
+
+.recipe {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 10px;
+    border: 1px solid;
+   
+}
+
+body {
+    background-color: lightblue;
+}
